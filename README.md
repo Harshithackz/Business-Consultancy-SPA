@@ -2,6 +2,10 @@
 
 This project is a responsive landing page built with HTML, CSS, and JavaScript. It is designed to be visually appealing and functional across various devices, ensuring a seamless user experience.
 
+## Live Demo
+
+### Check out the live demo of the landing page here. [Click Me](https://harshithackz.github.io/Business-Consultancy-SPA/)
+
 ## Features
 - **Responsive Design:** The landing page adjusts layout and content dynamically based on the screen size, ensuring usability on desktops, tablets, and smartphones.
 
@@ -27,6 +31,4 @@ This landing page template can be used for various applications, including but n
 
 - Event Promotions: Highlight upcoming events and encourage registrations with a clear call-to-action.
 
-## Live Demo
 
-### Check out the live demo of the landing page here.
